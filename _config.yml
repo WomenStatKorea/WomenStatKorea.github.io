@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: 한국통계학회 여성위원회
-subtitle: "__subtitle__"
+# subtitle: "__subtitle__"
 title_separator : '|'
 email: womenstatkorea@gmail.com
 name: 한국통계학회 여성위원회
@@ -21,7 +21,7 @@ description: Page of WomenStatKorea
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "womenstatkorea.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"  ##### cover image 찾기
-logo: "/assets/logo2.jpg"
+logo: "/assets/logo_hq.jpg"
 
 # Build settings
 markdown: kramdown
