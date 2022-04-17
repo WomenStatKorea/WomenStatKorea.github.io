@@ -3,7 +3,8 @@
 
 // Typography
 $base-font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial",'Nanum Gothic', sans-serif; // $helvetica;
-$heading-font-family: "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial",'Nanum Gothic', sans-serif; // $base-font-family;
+$heading-font-family: "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif; // $base-font-family;
+//'Nanum Gothic',
 
 // Font Sizes
 $base-font-size: $em-base; // 16px

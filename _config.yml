@@ -20,7 +20,7 @@ description: Page of WomenStatKorea
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "womenstatkorea.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"  ##### cover image 찾기
+cover: "/assets/shutterstock_1724964856.jpg"  # 정규분포_cover-image_불투명도70
 logo: "/assets/logo_hq.jpg"
 
 # Build settings
