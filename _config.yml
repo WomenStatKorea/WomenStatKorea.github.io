@@ -18,7 +18,7 @@ description: Page of WomenStatKorea
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "womenstatkorea.github.io" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "womenstatkorea.github.io" # the base hostname & protocol for your site
 cover: "/assets/shutterstock_1724964856.jpg"  # 정규분포_cover-image_불투명도70
 logo: "/assets/logo_hq.jpg"
@@ -33,7 +33,7 @@ highlightjs_theme: "monokai-sublime"
 pagination:
   enabled: true
   per_page: 5
-  permalink: "../page:num/"
+  permalink: "../post/page:num/"
   sort_reverse: true
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
