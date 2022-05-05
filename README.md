@@ -1,8 +1,7 @@
 ## 수정사항
 (2022.04.22)
-- title 폰트/색깔 바꾸기 -> 폰트(완)
-- 파비콘(browser icon) 바꾸기
 - 로컬 서버에서만 홈화면 포스팅이 뜨는 이유 찾기
+  > https://github.com/bencentra/centrarium/issues/88
 
 
 # Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
