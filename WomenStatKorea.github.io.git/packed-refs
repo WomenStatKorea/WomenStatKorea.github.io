@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+83ab7d41ecf249ea2ec64945d415bcc3733fb63b refs/heads/dependabot/bundler/addressable-2.8.0
+f0aa51cc1c327a02ab6de448d04d451e08ddf1e0 refs/heads/fixed-header
+7437b492af3ae771d5ffd39944809472b283f8b6 refs/heads/fixed-header-fix
+0d59763766a87eb99a3e07946e4d9cea2602bfe6 refs/heads/gh-pages
+aaff006b52689bbe023d8be6aedf9fe9d8acc9ec refs/heads/jekyll-3
+5f12df034d042bb77601215a9b3b3aaf533c4c8b refs/heads/master
+28f0d211fafb1aa3c71850f6afb9e998bdcfe82f refs/heads/page-direction
