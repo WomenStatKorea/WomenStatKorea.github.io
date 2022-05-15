@@ -1,5 +1,4 @@
 ## 수정사항
-(2022,05.05)
 - 로컬 서버에서만 홈 화면 포스팅이 뜨는 이유 찾기
   > https://github.com/bencentra/centrarium/issues/88
 
