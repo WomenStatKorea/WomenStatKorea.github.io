@@ -49,7 +49,7 @@ copyright: "Unpublished Work (cleft) 2022-{currentYear} {author}"
 #   Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dyKang12.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://womenstatkorea.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
